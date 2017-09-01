@@ -137,7 +137,7 @@
                             <%--Record view URL--%>
                             <div>
                                 <span class="glyphicon glyphicon-link btn-link"></span>
-                                ${header['host']}/get/<span data-record-link></span>
+                                ${header['host']}/view/<span data-record-link></span>
                             </div>
 
 
